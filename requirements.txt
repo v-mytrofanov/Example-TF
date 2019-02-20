@@ -1,0 +1,5 @@
+
+pytest==3.10.0
+selenium==3.141.0
+jsonpickle
+assertpy

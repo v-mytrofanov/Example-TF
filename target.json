@@ -1,0 +1,16 @@
+{
+  "web": {
+    "baseUrl": "",
+    "email": "",
+    "password": ""
+  },
+  "web_invite": {
+    "baseUrl": ""
+  },
+  "db": {
+    "host": "",
+    "name": "",
+    "user": "",
+    "password": ""
+  }
+}
